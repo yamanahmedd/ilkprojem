@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "442f1f4a-bd00-4789-a241-f598b72e75f7")
+	(paper "A4")
+	(lib_symbols)
+	(text "merahab benim ismim yaman"
+		(exclude_from_sim no)
+		(at 139.7 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "65dbe482-3bfb-4ba3-bbb1-a7b27e9da75a")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

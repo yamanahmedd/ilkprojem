@@ -420,17 +420,17 @@
     "top_level_sheets": [
       {
         "filename": "instromentataion yukseltec.kicad_sch",
-        "name": "Root",
-        "uuid": "96fefa45-b4e1-4e9f-a890-496170086927"
+        "name": "",
+        "uuid": "442f1f4a-bd00-4789-a241-f598b72e75f7"
       }
     ],
-    "used_designators": "U1-3,R1-8,#PWR1-13,V1-4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "96fefa45-b4e1-4e9f-a890-496170086927",
-      "Root"
+      "442f1f4a-bd00-4789-a241-f598b72e75f7",
+      ""
     ]
   ],
   "text_variables": {},
