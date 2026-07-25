@@ -5,7 +5,7 @@
 	(uuid "442f1f4a-bd00-4789-a241-f598b72e75f7")
 	(paper "A4")
 	(lib_symbols)
-	(text "merhaba benim ismim ahmedd\nkardes napyon"
+	(text "merhaba benim ismim ahmedd\nkardes napyon\nsoru sorma kardesim"
 		(exclude_from_sim no)
 		(at 139.7 95.25 0)
 		(effects
